@@ -1,0 +1,2 @@
+rootProject.name='JetpackSessionQuestion2'
+include ':app'
